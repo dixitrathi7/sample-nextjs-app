@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to Sample <a href="https://nextjs.org">Next.js</a> App!
         </h1>
-        <p>🖥️💖☕ by <a href="https://www.linkedin.com/in/dixit-rathi-6a1826232/">Dixit Rathi</a></p>
+        <p>🖥️💖☕ by <a href="https://www.linkedin.com/in/dixit-rathi-6a1826232/">Dixit Rathi's</a></p>
       </main>
     </div>
   )
