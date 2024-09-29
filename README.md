@@ -1,4 +1,4 @@
-# Sample Next.JS App
+# Sample Next.JS Application
 
 [![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![star](https://img.shields.io/github/stars/warengonzaga/sample-nextjs-app.svg?style=flat-square)](https://github.com/warengonzaga/sample-nextjs-app/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/sample-nextjs-app.svg?style=flat-square)](https://github.com/warengonzaga/sample-nextjs-app/blob/main/license)
 
